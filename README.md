@@ -49,7 +49,7 @@ Open `apps/android` in Android Studio and allow Gradle sync. The Android project
 
 ## Current status
 Milestone 2 (in progress): live GitHub repository discovery, Hugging Face model discovery, and arXiv paper search APIs are implemented; the web dashboard consumes GitHub and Hugging Face feeds and can load arXiv papers. Android remains a UI starter.
-Not yet production-ready. Authentication, persistent database, background ingestion, live market feeds, alerting, deployment, and full QA remain planned. External API availability and rate limits apply.
+Not yet production-ready. Authentication, persistent database, background ingestion, live market feeds, alerting, deployment, and full QA remain planned. A developer QA review is available in QA_REPORT.md; build and test execution is still pending. External API availability and rate limits apply.
 
 ## Roadmap
 1. Foundation and design system
