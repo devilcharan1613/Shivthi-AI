@@ -48,8 +48,8 @@ Open `apps/android` in Android Studio and allow Gradle sync. The Android project
 - API keys belong in environment variables or a secret manager, never in source control.
 
 ## Current status
-Milestone 1: repository scaffold and first web/API/Android starter files.
-Not yet production-ready. Authentication, persistent database, background ingestion, live market feeds, alerting, deployment, and full QA remain planned.
+Milestone 2 (in progress): live GitHub repository discovery, Hugging Face model discovery, and arXiv paper search APIs are implemented; the web dashboard consumes GitHub and Hugging Face feeds and can load arXiv papers. Android remains a UI starter.
+Not yet production-ready. Authentication, persistent database, background ingestion, live market feeds, alerting, deployment, and full QA remain planned. External API availability and rate limits apply.
 
 ## Roadmap
 1. Foundation and design system
